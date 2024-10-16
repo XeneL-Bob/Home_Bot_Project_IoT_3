@@ -1,0 +1,6 @@
+RPi.GPIO
+Adafruit_DHT
+gspread
+oauth2client
+Flask
+smtplib
